@@ -1,7 +1,7 @@
-TypeScript Jest Demo
+TypeScript Jest React ".tsx" Test Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+让jest支持 react + '.tsx`
 
 ```
 npm install
